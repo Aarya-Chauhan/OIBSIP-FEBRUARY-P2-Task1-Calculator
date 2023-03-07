@@ -1,1 +1,1 @@
-A simple calculator webapp using HTML, CSS, and javascript
+A simple calculator Web App using HTML, CSS, and javascript.
